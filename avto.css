@@ -1,0 +1,138 @@
+.header1_logotip {
+    height: 70;
+    width: 2000;
+    background-color: #aef759;
+    position: relative;
+}
+.tvoe {
+    color: #bf0313;
+    font-size: 40;
+    padding: 20 0 1 30;
+    margin: 0 0 0 0;
+    position: fixed;
+}
+/*
+.poisk {
+    width: 45%;
+    max-width: 90px;
+    display: inline-block;
+    padding: 15px;
+    margin: 10px;
+    background-color: #ffa7bf;
+} 
+*/
+.poisk2 {
+    padding: 10 10 10 1200;
+    font-size: 25;
+    color: #391cdad4;
+}
+.poisk3 {
+    display: inline;
+    padding: 10px;
+    font-size: 13px;
+    border-radius: 15px;
+    border: 1px solid #4CAF50;
+}
+.header2_line {
+    width: 2000;
+    height: 80;
+    background-color: #383ca0ad;
+    position: fixed;
+}
+.avto {
+    font-size: 40;
+    color: #0b0877;
+    padding: 0 0 0 17;
+    margin: 0 0 0 0;
+}
+.catalog {
+    display: inline;
+    padding: 0 120 0 300;
+    font-size: 25;
+    color: #91f952;
+}
+.novosti {
+    display: inline;
+    padding: 0 100 0 140;
+    font-size: 25;
+    color: #91f952;
+}
+.poleznoe {
+    display: inline;
+    padding: 0 100 0 140;
+    font-size: 25;
+    color: #91f952;
+}
+.test_drive {
+    display: inline;
+    padding: 0 300 0 140;
+    font-size: 25;
+    color: #91f952;
+}
+
+
+
+#content_page {
+    width: 900px;
+    padding: 115 350 5 280;
+    text-align: justify;
+}
+
+.content_name {
+    text-align: center;
+    font-size: 35px;
+}
+.content_text_kursiv {
+    font-size: 20px;
+}
+.verticalline {
+    border-left: 5px solid #a6a6d4;
+    padding-left: 10px;
+    width: 800px;
+}
+ /*content_text_kursiv 
+ строка 27 */
+
+ .content1 {
+     font-size: 20px;
+ }
+ .snimite_eto{
+     font-size: 22px;
+     text-align: center;
+ }
+ .vishenka {
+     font-size: 22px;
+     text-align: center;
+ } 
+ .content2 {
+    font-size: 20px;
+}
+
+#content_page2 {
+    width: 1100px;
+    padding: 115 3000 5 200;
+    text-align: justify;
+}
+
+/*.name_of_table {
+    background-color: aquamarine;
+    text-align: center;
+}
+
+<div class="name_of_table" caption>
+
+*/
+
+.table {
+    border-collapse: collapse;
+}
+.caption {
+    background: #429e7f;
+    color: white;
+    padding: 10 0 10 0;
+    font-size: 20;
+}
+.oformlenie {
+   border: bottom;
+   border: 1px dashed;
+}
